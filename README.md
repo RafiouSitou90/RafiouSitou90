@@ -38,4 +38,4 @@
 [twitter]: https://twitter.com/RafiouSitou
 [linkedin]: https://www.linkedin.com/in/rafiou-sitou/
 
-[link]: /#
+[link]: #
