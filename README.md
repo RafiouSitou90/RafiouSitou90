@@ -1,10 +1,17 @@
-### Hi there 👋
+### Hi there 👋 Bonjour à tous! Olá!
+
+- 🔭 I’m currently working on Symfony
+- 🌱 I’m currently learning ReactJS, React Native, NodeJS
+- 👯 I’m looking to collaborate on Symfony
+- 🤔 I’m looking for help with Symfony
+- 💬 Ask me about Anything
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafiou-sitou/)
 
 <!--
 **RafiouSitou90/RafiouSitou90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<!--
+**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
