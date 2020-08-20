@@ -1,4 +1,4 @@
-### Hi there 👋 Bonjour à tous! Olá!
+### Hi there👋!  Bonjour à tous👋!  Olá👋!
 
 - 🔭 I’m currently working on Symfony
 - 🌱 I’m currently learning ReactJS, React Native, NodeJS
