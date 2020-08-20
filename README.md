@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Symfony
 - 🌱 I’m currently learning ReactJS, React Native, NodeJS
 - 👯 I’m looking to collaborate on Symfony
-- 🤔 I’m looking for help with Symfony
+- 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn][linkedIn]
 
