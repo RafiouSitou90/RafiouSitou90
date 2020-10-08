@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafiou Sitou 👋
 
-- 🔭 I’m currently working on Symfony
+- 🔭 I’m currently working on Symfony and React Native
 - 🌱 I’m currently learning ReactJS, React Native, NodeJS
 - 👯 I’m looking to collaborate on Symfony
 - 🤔 I’m looking for help with AWS
